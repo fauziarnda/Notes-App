@@ -14,28 +14,28 @@ Aplikasi catatan sederhana berbasis Web Components dan Webpack. Pengguna dapat m
 - 📦 Struktur folder yang terorganisir dengan baik
 ---
 
-```## 📁 Struktur Folder
-
+## 📁 Struktur Folder
+```
 NotesApp/
 ├── dist/ # Output hasil build Webpack
 ├── node_modules/ # Dependency Node.js
 ├── src/
-│ ├── component/ # Komponen Web Components (modular)
+│ ├── component/
 │ │ ├── headerComponent.js
 │ │ ├── loadingIndicator.js
 │ │ ├── noteForm.js
 │ │ └── noteItem.js
 │ ├── script/
-│ │ └── index.js # Entry point aplikasi
+│ │ └── index.js 
 │ └── styles/
-│ ├── index.css # Styling global
-│ └── index.html # Template HTML utama
-├── sample-notes.js # Data catatan simulasi
-├── .gitignore # File untuk mengabaikan file/folder saat push
-├── package.json # Konfigurasi NPM & script
-├── package-lock.json # Lock file npm
-├── webpack.config.js # Konfigurasi Webpack
-└── README.md # Dokumentasi proyek ini
+│ ├── index.css 
+│ └── index.html 
+├── sample-notes.js 
+├── .gitignore 
+├── package.json 
+├── package-lock.json 
+├── webpack.config.js 
+└── README.md 
 ```
 
 ---
