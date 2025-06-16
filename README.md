@@ -12,7 +12,7 @@
 - 📦 Struktur folder yang terorganisir dengan baik
 ---
 
-## 📁 Struktur Folder
+```## 📁 Struktur Folder
 
 NotesApp/
 ├── dist/ # Output hasil build Webpack
@@ -34,6 +34,7 @@ NotesApp/
 ├── package-lock.json # Lock file npm
 ├── webpack.config.js # Konfigurasi Webpack
 └── README.md # Dokumentasi proyek ini
+```
 
 ---
 
