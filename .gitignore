@@ -1,0 +1,8 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Optional: ZIP or compressed files
+*.zip
