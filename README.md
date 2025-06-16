@@ -3,15 +3,12 @@ Aplikasi catatan sederhana berbasis Web Components dan Webpack. Pengguna dapat m
 ---
 ## 🚀 Fitur Utama
 
-- 📄 Menampilkan daftar catatan
-- 🔧 Komponen modular:
-    - Header
-    - Loading Indicator
-    - Note Form (form input)
-    - Note Item (kartu catatan)
+- 📋 Menampilkan daftar catatan aktif
+- ✅ Menambahkan catatan
+- 🗑️ Menghapus catatan
+- 📦 Modular dengan Web Components
+- 🛠️ Build bundling menggunakan Webpack
 - 🎨 Menggunakan Shadow DOM untuk isolasi gaya CSS
-- ⚙️ Build dengan Webpack
-- 📦 Struktur folder yang terorganisir dengan baik
 ---
 
 ## 📁 Struktur Folder
