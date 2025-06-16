@@ -54,8 +54,23 @@ NotesApp/
 ```bash
 git clone https://github.com/fauziarnda/NotesApp.git
 cd NotesApp
+```
 
+### 2. Install Dependency
+
+```bash
 npm install
+
+```
+
+### 3. Menjalankan Mode Development
+
+```bash
 npm run start-dev
+```
+
+### 4. Build untuk Produksi
+
+```bash
 npm run build
 ```
