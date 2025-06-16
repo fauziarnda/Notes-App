@@ -1,3 +1,5 @@
+## 📋Notes App
+
 Aplikasi catatan sederhana berbasis Web Components dan Webpack. Pengguna dapat membuat, melihat, dan menghapus catatan. Proyek ini terintegrasi dengan RESTful API dari Dicoding.
 
 ---
